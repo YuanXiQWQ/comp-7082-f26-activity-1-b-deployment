@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "comp-7082-f26"
+assignment: "activity-1-b-pair-programming"
+owner:
+  username: "StarkJain"
+  id: 58191032
+  accepted_at: "2026-09-12T02:55:07Z"
+source:
+  owner: "nabil-bcit-org"
+  owner_id: 326342404
+  repo: "Activity-1.b-Pair-Programming"
+  branch: "main"

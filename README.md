@@ -1,4 +1,4 @@
-# Weather App
+# [Weather App](https://YuanXiQWQ.github.io/comp-7082-f26-activity-1-b-deployment/)
 
 In this pair programming activity, you will work with your partner to design and implement a weather web app. The app will allow users to input a city name and receive real-time weather information from the OpenWeatherMap API. Focus on creating a user-friendly and visually appealing interface.
 

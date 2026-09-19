@@ -61,8 +61,8 @@ function buildClouds() {
 
   for (let i = 0; i < CLOUD_COUNT; i += 1) {
     clouds.push({
-      x: Math.random() * canvas.clientWidth * 0.5,
-      y: Math.random() * canvas.clientHeight * 0.9,
+      x: Math.random() * canvas.clientWidth,
+      y: canvas.clientHeight - Math.random() * 100,
       size: 40 + Math.random() * 10,
       speed: 30
     });
